@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\bin\Debug\deteccion de bordes.exe.config
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\bin\Debug\deteccion de bordes.exe
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\bin\Debug\deteccion de bordes.pdb
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\obj\Debug\deteccion de bordes.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\obj\Debug\deteccion_de_bordes.Form1.resources
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\obj\Debug\deteccion_de_bordes.Properties.Resources.resources
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\obj\Debug\deteccion de bordes.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\obj\Debug\deteccion de bordes.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\obj\Debug\deteccion de bordes.exe
+C:\Users\Daniel\source\repos\deteccion de bordes\deteccion de bordes\obj\Debug\deteccion de bordes.pdb
