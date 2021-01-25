@@ -95,6 +95,7 @@ namespace deteccion_de_bordes
 
                 Image border = bordes;
                 pictureBox3.Image = border;
+                border.Save("bordes.png");
 
 
 
